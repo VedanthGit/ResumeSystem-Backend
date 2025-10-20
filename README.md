@@ -92,6 +92,9 @@ JWT_SECRET=your_secret_key
 CLIENT_URL=http://localhost:5173
 EXTERNAL_API_KEY=resume-system-external-key-123
 ```
+> node -e "console.log('JWT_SECRET=', require('crypto').randomBytes(32).toString('hex'));"  
+> node -e "console.log('EXTERNAL_API_KEY=', require('crypto').randomBytes(64).toString('hex'));"
+
 
 ### 4️⃣ Start the server
 
@@ -209,4 +212,5 @@ This backend successfully implements:
 ✔ **Cross-platform integration readiness**
 
 > Designed with scalability, modularity, and integration in mind — ready to plug into the Resume System frontend or other ecosystem services.
+
 
