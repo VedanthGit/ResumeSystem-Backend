@@ -192,9 +192,10 @@ x-api-key: resume-system-external-key-123
 
 ## 🧑‍💻 Developer Info
 
-**Developer:** Vedanth Lahoti
-**Role:** MERN Stack Developer
-**Project:** Resume System Backend (Trial Task)
+**Developer:** Vedanth Lahoti  
+**Email:** vedanthlahoti@gmail.com
+**Role:** MERN Stack Developer  
+**Project:** Resume System Backend (Trial Task)  
 
 ---
 
@@ -208,3 +209,4 @@ This backend successfully implements:
 ✔ **Cross-platform integration readiness**
 
 > Designed with scalability, modularity, and integration in mind — ready to plug into the Resume System frontend or other ecosystem services.
+
